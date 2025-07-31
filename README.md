@@ -18,6 +18,8 @@ I'm currently studying at Sardar Patel Institute of Technology.<br>I'm currently
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Somanshu-Mahajan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="https://raw.githubusercontent.com/Somanshu-Mahajan/Somanshu-Mahajan/output/snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Somanshu-Mahajan&icon=1&color=7)](https://visitcount.itsvg.in)
 

@@ -22,3 +22,4 @@ I'm currently studying at Sardar Patel Institute of Technology.<br>I'm currently
 [![](https://visitcount.itsvg.in/api?id=Somanshu-Mahajan&icon=1&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
